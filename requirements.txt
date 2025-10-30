@@ -1,0 +1,11 @@
+pandas
+numpy
+pathlib
+seaborn
+matplotlib
+ta
+pytrends
+numpy
+scipy
+praw
+python-dotenv
